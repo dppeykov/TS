@@ -86,3 +86,5 @@ let x = 3;
 
 //Union Type
 let confused: string | number = 'hello'
+
+//Udemy course
